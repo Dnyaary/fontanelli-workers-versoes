@@ -42,9 +42,9 @@
   <p class="meta" id="versao"></p>
 
   <ol>
-    <li>Baixe e salve o <b>FontanelliWorkers.exe</b> numa pasta fixa (ex.: Documentos).</li>
-    <li>Instale o <b>Ghostscript</b> (64 bits) se o PC ainda não tiver.</li>
-    <li>Abra o programa. As próximas versões chegam sozinhas pelo próprio programa.</li>
+    <li>Baixe e abra o <b>instalador</b> (não pede senha de administrador).</li>
+    <li>Instale o <b>Ghostscript</b> (64 bits) se o PC ainda não tiver — é ele que lê os PDFs.</li>
+    <li>Abra o programa pelo atalho. As próximas versões chegam sozinhas pelo próprio programa.</li>
   </ol>
 
   <footer>
@@ -61,7 +61,8 @@
     .then(v => {
       if (!v) return;
       document.getElementById("baixar").href = v.setup_url || v.url;
-      const mb = v.size ? " · " + (v.size / 1048576).toFixed(1) + " MB" : "";
+      const bytes = v.setup_size || v.size;
+      const mb = bytes ? " · " + (bytes / 1048576).toFixed(1) + " MB" : "";
       document.getElementById("versao").textContent = "Versão " + v.version + mb;
     })
     .catch(() => {});
