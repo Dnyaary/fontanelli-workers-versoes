@@ -1,0 +1,8 @@
+{
+  "version": "12.0.0",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.0/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.0/FontanelliWorkers-Setup.exe",
+  "sha256": "39af935e519261947ef2b419634060e891f0b9857aa409f81e5345f0e4c0f348",
+  "size": 10899456,
+  "notes": "Primeira versão do FONTANELLI WORKERS nova.\n- Análise de pranchas, vendas e orçamentos no modelo do Conta Azul\n- Vendas enviadas ao Conta Azul (e card no Trello)\n- Preços vindos do Conta Azul\n- Atualização automática e instalador"
+}
