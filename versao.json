@@ -1,9 +1,9 @@
 {
-  "version": "12.0.0",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.0/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.0/FontanelliWorkers-Setup.exe",
-  "sha256": "39af935e519261947ef2b419634060e891f0b9857aa409f81e5345f0e4c0f348",
-  "size": 10899456,
-  "notes": "Primeira versão do FONTANELLI WORKERS nova.\n- Análise de pranchas, vendas e orçamentos no modelo do Conta Azul\n- Vendas enviadas ao Conta Azul (e card no Trello)\n- Preços vindos do Conta Azul\n- Atualização automática e instalador",
-  "setup_size": 5544300
+  "version": "12.0.1",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.1/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.1/FontanelliWorkers-Setup.exe",
+  "sha256": "5bb9a2f456caf894d41725250e99f28c03e4d1389378e4b7487355e789c554e8",
+  "size": 10907136,
+  "setup_size": 5545607,
+  "notes": "Correções:\n- E-mail da empresa atualizado (contatofontanelli@gmail.com)\n- Esc fecha só o calendário/lista aberta, não a venda inteira\n- PDF da venda sem página em branco; parcelas como \"Parcela 1/2\"\n- Atualizações pelo site workers.fontanelli.com.br\n- Mensagens mais claras"
 }
