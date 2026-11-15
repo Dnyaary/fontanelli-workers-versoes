@@ -1,9 +1,9 @@
 {
-  "version": "12.0.1",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.1/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.1/FontanelliWorkers-Setup.exe",
-  "sha256": "5bb9a2f456caf894d41725250e99f28c03e4d1389378e4b7487355e789c554e8",
-  "size": 10907136,
-  "setup_size": 5545607,
-  "notes": "Correções:\n- E-mail da empresa atualizado (contatofontanelli@gmail.com)\n- Esc fecha só o calendário/lista aberta, não a venda inteira\n- PDF da venda sem página em branco; parcelas como \"Parcela 1/2\"\n- Atualizações pelo site workers.fontanelli.com.br\n- Mensagens mais claras"
+  "version": "12.0.2",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.2/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.2/FontanelliWorkers-Setup.exe",
+  "sha256": "f5448ddadd0fe1c240061a0d29f5f2c017f72399ff69c12bd83a629496942bce",
+  "size": 10966016,
+  "setup_size": 5554659,
+  "notes": "Correção:\n- O PDF escolhido com duplo clique em \"Adicionar PDFs\" entra na hora (antes às vezes precisava clicar de novo)\n- As janelas de abrir/salvar arquivo não travam mais o programa"
 }
