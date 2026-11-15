@@ -1,9 +1,9 @@
 {
-  "version": "12.0.11",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.11/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.11/FontanelliWorkers-Setup.exe",
-  "sha256": "449dedd2fadd7950c9fce7e9b7138ad641d1bc7afab5e2164a28150e2e7c697a",
-  "size": 11292672,
-  "setup_size": 5621606,
-  "notes": "- Orçamento feito direto no Conta Azul: \"Aprovar venda\" fica desativado (aprove lá, no botão \"Criar venda\" do orçamento — a venda vem para cá sozinha)\n- Se o Conta Azul recusar uma aprovação, o registro volta a ser orçamento no programa (antes ficava preso como venda \"Alterada · não enviada\")"
+  "version": "12.0.12",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.12/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.12/FontanelliWorkers-Setup.exe",
+  "sha256": "15106369e85e8eebd51c37db7929f3657876126d0ff4cfa14ec5f3c24a43a73a",
+  "size": 11309568,
+  "setup_size": 5626429,
+  "notes": "- Orçamento que virou venda no Conta Azul (\"Criar venda\") continua orçamento aqui — a venda nova vem como outro registro\n- Venda que não foi para o Conta Azul (internet caiu) é reenviada sozinha quando a conexão volta\n- Lista de vendas leve mesmo com milhares de vendas\n- Sem internet: avisa uma vez no terminal (e quando volta), em vez de a cada 3 minutos"
 }
