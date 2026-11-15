@@ -1,9 +1,9 @@
 {
-  "version": "12.0.8",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.8/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.8/FontanelliWorkers-Setup.exe",
-  "sha256": "d65596460cb75f40d26370c5fc5bba47d0e34d66ea9ebc255a2ea30d7c98a141",
-  "size": 11298304,
-  "setup_size": 5620827,
-  "notes": "Sincronização com o Conta Azul nos dois sentidos (o programa continua com o banco de dados no computador):\n- Vendas e orçamentos feitos ou alterados no Conta Azul aparecem aqui sozinhos (a cada 3 min; 1 min com a lista aberta; botão Atualizar)\n- Venda excluída no Conta Azul sai daqui também (fica em pedidos/excluidas)\n- Editar uma venda já enviada: a alteração vai para o Conta Azul (fica \"Alterada · não enviada\" até confirmar)\n- Excluir aqui exclui no Conta Azul (pede confirmação)\n- \"Criar venda\" é sempre uma venda nova, com número que não repete"
+  "version": "12.0.9",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.9/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.9/FontanelliWorkers-Setup.exe",
+  "sha256": "6a63916652f8220114eafc622589d5278cf6283355edcce5947f19e2fe490a17",
+  "size": 11305984,
+  "setup_size": 5621221,
+  "notes": "- Orçamento feito direto no Conta Azul agora entra como orçamento (antes vinha como venda); os que já estavam gravados errado se corrigem sozinhos na sincronização\n- Detalhes: \"No Conta Azul: orçamento N · feito lá\" para o que foi criado no Conta Azul"
 }
