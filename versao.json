@@ -1,9 +1,9 @@
 {
-  "version": "12.0.12",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.12/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.12/FontanelliWorkers-Setup.exe",
-  "sha256": "15106369e85e8eebd51c37db7929f3657876126d0ff4cfa14ec5f3c24a43a73a",
-  "size": 11309568,
-  "setup_size": 5626429,
-  "notes": "- Orçamento que virou venda no Conta Azul (\"Criar venda\") continua orçamento aqui — a venda nova vem como outro registro\n- Venda que não foi para o Conta Azul (internet caiu) é reenviada sozinha quando a conexão volta\n- Lista de vendas leve mesmo com milhares de vendas\n- Sem internet: avisa uma vez no terminal (e quando volta), em vez de a cada 3 minutos"
+  "version": "12.0.13",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.13/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.13/FontanelliWorkers-Setup.exe",
+  "sha256": "da6072f899d3604d5c40310363433dda2b6776553df641df44106a28db6895f7",
+  "size": 11319296,
+  "setup_size": 5631433,
+  "notes": "- Venda idêntica feita em outro computador com o mesmo número nunca é tomada como a mesma: ganha número novo (antes podia se perder)\n- Envio que ficou sem resposta (internet caiu no meio) é reenviado sem duplicar no Conta Azul\n- Fila de envio: várias vendas enviadas juntas não se perdem\n- Itens por m² ou com preço manual por metro: total no Conta Azul igual ao do programa e do PDF\n- Sincronização mais leve (menos leitura de disco)\n- Botão \"Atualizar clientes\" na Nova venda (cliente recém-cadastrado no Conta Azul aparece na hora)"
 }
