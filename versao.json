@@ -1,9 +1,9 @@
 {
-  "version": "12.0.2",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.2/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.2/FontanelliWorkers-Setup.exe",
-  "sha256": "f5448ddadd0fe1c240061a0d29f5f2c017f72399ff69c12bd83a629496942bce",
-  "size": 10966016,
-  "setup_size": 5554659,
-  "notes": "Correção:\n- O PDF escolhido com duplo clique em \"Adicionar PDFs\" entra na hora (antes às vezes precisava clicar de novo)\n- As janelas de abrir/salvar arquivo não travam mais o programa"
+  "version": "12.0.3",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.3/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.3/FontanelliWorkers-Setup.exe",
+  "sha256": "b632327ebd83fd43d1b3578695969c8640dd3afc9435ddeeb933e48ae259365e",
+  "size": 11017216,
+  "setup_size": 5570393,
+  "notes": "Lista de vendas e orçamentos no formato do Conta Azul:\n- marcar várias vendas e imprimir ou excluir de uma vez\n- ordenar por data, número, cliente ou valor\n- situação (Aprovado / Em andamento / Perdido) e status no Conta Azul em etiquetas coloridas\n- menu Ações em cada venda: ver detalhes, editar, enviar, clonar, imprimir, salvar PDF, excluir"
 }
