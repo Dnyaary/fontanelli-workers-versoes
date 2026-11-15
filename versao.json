@@ -1,9 +1,9 @@
 {
-  "version": "12.0.4",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.4/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.4/FontanelliWorkers-Setup.exe",
-  "sha256": "06c1e4a6c267c1529b3ee2dc4d8c838a38abf624a94337bbe18a693b440c6094",
-  "size": 11038720,
-  "setup_size": 5573747,
-  "notes": "- Formas de pagamento iguais às do Conta Azul (22 opções, com busca); começa vazia, como lá\n- Vencimento com calendário também na venda à vista; vencimento depois do dia da venda vira 1x, igual ao Conta Azul\n- Cards \"Informações de pagamento\" e \"Observações complementares da nota fiscal\" agora fecham; a lista de seleção não prende mais o clique\n- Abertura do programa sem a tela pular"
+  "version": "12.0.5",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.5/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.5/FontanelliWorkers-Setup.exe",
+  "sha256": "8dcfc66dad468e26d8215f5d55ee4518911d2585b594f6c915b4fa6883d988f9",
+  "size": 11041792,
+  "setup_size": 5573359,
+  "notes": "- Orçamento fica só no programa (o Conta Azul não aceita orçamento pela integração); vai ao Conta Azul quando você usar \"Transformar em venda\"\n- Na lista, orçamentos aparecem com situação \"Orçamento\" e \"Só no programa\""
 }
