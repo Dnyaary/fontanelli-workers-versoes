@@ -1,9 +1,9 @@
 {
-  "version": "12.0.9",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.9/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.9/FontanelliWorkers-Setup.exe",
-  "sha256": "6a63916652f8220114eafc622589d5278cf6283355edcce5947f19e2fe490a17",
-  "size": 11305984,
-  "setup_size": 5621221,
-  "notes": "- Orçamento feito direto no Conta Azul agora entra como orçamento (antes vinha como venda); os que já estavam gravados errado se corrigem sozinhos na sincronização\n- Detalhes: \"No Conta Azul: orçamento N · feito lá\" para o que foi criado no Conta Azul"
+  "version": "12.0.10",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.10/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.10/FontanelliWorkers-Setup.exe",
+  "sha256": "a021d0fc83ecbb8d7126525ae1e67b3138b08cf9aa360579201e952f1d1b7f6a",
+  "size": 11292672,
+  "setup_size": 5622049,
+  "notes": "Preparação para produção:\n- Venda que já está no Conta Azul não se edita nem se exclui pelo programa: faça por lá, o programa acompanha sozinho. Rascunhos não enviados continuam editáveis\n- Dois computadores com o mesmo número: a venda nova nunca substitui a outra; o programa troca para o próximo número e reenvia sozinho\n- Aprovar venda: o Conta Azul muda só a situação, mantendo tudo o que já está lá\n- Trava: se muitas vendas sumirem do Conta Azul de uma vez, nada é tirado daqui sem você confirmar\n- Sincronização confere os últimos 30 dias e respeita o limite de pedidos do Conta Azul\n- Criar venda / Salvar e criar nova venda continuam na mesma guia, com as pranchas dela"
 }
