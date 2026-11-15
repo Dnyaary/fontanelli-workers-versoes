@@ -1,9 +1,9 @@
 {
-  "version": "12.0.5",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.5/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.5/FontanelliWorkers-Setup.exe",
-  "sha256": "8dcfc66dad468e26d8215f5d55ee4518911d2585b594f6c915b4fa6883d988f9",
-  "size": 11041792,
-  "setup_size": 5573359,
-  "notes": "- Orçamento fica só no programa (o Conta Azul não aceita orçamento pela integração); vai ao Conta Azul quando você usar \"Transformar em venda\"\n- Na lista, orçamentos aparecem com situação \"Orçamento\" e \"Só no programa\""
+  "version": "12.0.6",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.6/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.6/FontanelliWorkers-Setup.exe",
+  "sha256": "ca60c5d7e58170eac3ab8a12a1e41393904f27583e1485c094a04ec4b4b8cde5",
+  "size": 11041280,
+  "setup_size": 5573161,
+  "notes": "- Orçamento vai ao Conta Azul como orçamento (situação \"Em andamento\"); venda avulsa vai como \"Aprovado\"\n- \"Transformar em venda\" sempre ativo: atualiza o mesmo registro no Conta Azul para Aprovado (sem criar outra venda)"
 }
