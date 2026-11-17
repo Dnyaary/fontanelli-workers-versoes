@@ -1,9 +1,9 @@
 {
-  "version": "12.0.14",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.14/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.14/FontanelliWorkers-Setup.exe",
-  "sha256": "273b82763bcd9f600a231dc6e78f0b95f44f74e8e3197cbae94f816117b3618f",
-  "size": 11299840,
-  "setup_size": 5624194,
-  "notes": "**O programa agora só faz orçamentos**\n\n- O programa só lê as vendas do Conta Azul (sincronização de 30 dias) e só envia orçamentos (\"Em andamento\").\n- Sem \"Venda avulsa\" no formulário e sem \"Aprovar venda\": a venda é criada no Conta Azul (botão \"Criar venda\" do orçamento) e vem para o programa sozinha.\n- Venda antiga que nunca foi enviada fica bloqueada para envio; use Clonar para transformá-la em orçamento.\n- Textos ajustados: \"Novo orçamento\", \"Criar orçamento\" e mensagens de envio."
+  "version": "12.0.15",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.15/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.15/FontanelliWorkers-Setup.exe",
+  "sha256": "1168788ca162a230e8c447fa37229b735282e7f9de89adef7c8750c49ef9b795",
+  "size": 11295744,
+  "setup_size": 5622570,
+  "notes": "- Sincronização com o Conta Azul lê só os **últimos 7 dias** (mais rápida). Vendas mais antigas continuam no programa.\n- Bloqueados: Imprimir e Configurar impressora (faixa, Ctrl+P, comando IMPRIMIR, lista de vendas) e Clonar."
 }
