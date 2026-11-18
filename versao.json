@@ -1,9 +1,9 @@
 {
-  "version": "12.0.18",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.18/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.18/FontanelliWorkers-Setup.exe",
-  "sha256": "cc66aa38ebced86476ca21f82f3adc47b019dec5fce00d43d5aa36a6663828a0",
-  "size": 11430400,
-  "setup_size": 5655755,
-  "notes": "**Imprimir recibo**\n\n- Em \"Ver vendas\", com registros selecionados, o botão Excluir virou **Imprimir recibo** (também em Ações e em Outras ações nos detalhes).\n- Recibo A4 com duas vias (cliente e empresa, linha de corte): dados da empresa, número, valor com extenso, itens, forma de pagamento, cidade e data, assinatura.\n- Vários selecionados: um recibo por página no mesmo PDF; abre na janela de impressão do programa."
+  "version": "12.0.19",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.19/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.19/FontanelliWorkers-Setup.exe",
+  "sha256": "cf53001fc2e3146a2b8367ea947680cf84a60e90d000d15caacc2e4a355c28ae",
+  "size": 11442176,
+  "setup_size": 5656715,
+  "notes": "- Recibo: endereço e CEP da empresa no cabeçalho.\n- Ajuste manual (e em lote): botões Salvar/Cancelar/Restaurar fixos no rodapé, sempre à vista.\n- Análise detalhada: valores do diagnóstico do raster alinhados com os demais.\n- Administração > Preços: botões no pé da janela; a tabela usa o espaço disponível."
 }
