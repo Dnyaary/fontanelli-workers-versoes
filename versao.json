@@ -1,9 +1,9 @@
 {
-  "version": "12.0.16",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.16/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.16/FontanelliWorkers-Setup.exe",
-  "sha256": "bf019567d7a38a205a376babf3acc17f0b64819bfdecbaf6c639afe0fb15d562",
-  "size": 11344384,
-  "setup_size": 5635389,
-  "notes": "**Ajuste manual em lote**\n\n- Com várias pranchas selecionadas, \"Ajuste manual (N pranchas)…\" (botão direito ou faixa) abre um ajuste único para todas.\n- Marque só o que quer mudar: cópias/metragem, formato, largura × altura, cobertura (%), forçar faixa, preço manual, revisão, observação. O resto de cada prancha fica como está.\n- Mostra o total à vista agora e depois do ajuste antes de aplicar."
+  "version": "12.0.17",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.17/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.17/FontanelliWorkers-Setup.exe",
+  "sha256": "df9e36f2447a562fb48a7fe331dac8dcf0263dd8f3a3e053579391be17eba038",
+  "size": 11386880,
+  "setup_size": 5643624,
+  "notes": "**Aviso pelo \"Código do cliente\" do Conta Azul**\n\n- Ao escolher o cliente no orçamento, aparece ao lado de Tipo/Situação:\n  - código \"vermelho\" / \"red\" → retângulo vermelho **CLIENTE INADIMPLENTE**\n  - código \"em análise\" → retângulo amarelo **CLIENTE EM ANÁLISE**\n  - vazio ou outro texto → nada\n- Usa o novo fluxo do n8n \"FW – Código do cliente\"."
 }
