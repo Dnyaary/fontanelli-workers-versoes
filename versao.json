@@ -1,9 +1,9 @@
 {
-  "version": "12.0.15",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.15/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.15/FontanelliWorkers-Setup.exe",
-  "sha256": "1168788ca162a230e8c447fa37229b735282e7f9de89adef7c8750c49ef9b795",
-  "size": 11295744,
-  "setup_size": 5622570,
-  "notes": "- Sincronização com o Conta Azul lê só os **últimos 7 dias** (mais rápida). Vendas mais antigas continuam no programa.\n- Bloqueados: Imprimir e Configurar impressora (faixa, Ctrl+P, comando IMPRIMIR, lista de vendas) e Clonar."
+  "version": "12.0.16",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.16/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.16/FontanelliWorkers-Setup.exe",
+  "sha256": "bf019567d7a38a205a376babf3acc17f0b64819bfdecbaf6c639afe0fb15d562",
+  "size": 11344384,
+  "setup_size": 5635389,
+  "notes": "**Ajuste manual em lote**\n\n- Com várias pranchas selecionadas, \"Ajuste manual (N pranchas)…\" (botão direito ou faixa) abre um ajuste único para todas.\n- Marque só o que quer mudar: cópias/metragem, formato, largura × altura, cobertura (%), forçar faixa, preço manual, revisão, observação. O resto de cada prancha fica como está.\n- Mostra o total à vista agora e depois do ajuste antes de aplicar."
 }
