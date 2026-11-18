@@ -1,9 +1,9 @@
 {
-  "version": "12.0.17",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.17/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.17/FontanelliWorkers-Setup.exe",
-  "sha256": "df9e36f2447a562fb48a7fe331dac8dcf0263dd8f3a3e053579391be17eba038",
-  "size": 11386880,
-  "setup_size": 5643624,
-  "notes": "**Aviso pelo \"Código do cliente\" do Conta Azul**\n\n- Ao escolher o cliente no orçamento, aparece ao lado de Tipo/Situação:\n  - código \"vermelho\" / \"red\" → retângulo vermelho **CLIENTE INADIMPLENTE**\n  - código \"em análise\" → retângulo amarelo **CLIENTE EM ANÁLISE**\n  - vazio ou outro texto → nada\n- Usa o novo fluxo do n8n \"FW – Código do cliente\"."
+  "version": "12.0.18",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.18/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.18/FontanelliWorkers-Setup.exe",
+  "sha256": "cc66aa38ebced86476ca21f82f3adc47b019dec5fce00d43d5aa36a6663828a0",
+  "size": 11430400,
+  "setup_size": 5655755,
+  "notes": "**Imprimir recibo**\n\n- Em \"Ver vendas\", com registros selecionados, o botão Excluir virou **Imprimir recibo** (também em Ações e em Outras ações nos detalhes).\n- Recibo A4 com duas vias (cliente e empresa, linha de corte): dados da empresa, número, valor com extenso, itens, forma de pagamento, cidade e data, assinatura.\n- Vários selecionados: um recibo por página no mesmo PDF; abre na janela de impressão do programa."
 }
