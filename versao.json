@@ -1,9 +1,9 @@
 {
-  "version": "12.0.20",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.20/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.20/FontanelliWorkers-Setup.exe",
-  "sha256": "951939f208818be47daf2bbf2c9fb3c5aab1227d5b1215a20a64ce30610d087f",
-  "size": 11507712,
-  "setup_size": 5671368,
-  "notes": "**Crédito pelo \"Código do cliente\" do Conta Azul**\n\n- MENSALISTA (verde): a prazo liberado; vencimento automático no último dia do mês.\n- ESPECIAL (azul): a prazo liberado, vencimento livre.\n- BLOQUEADO / INADIMPLENTE (vermelho), EM ANÁLISE (amarelo) ou sem código: só à vista (condição e vencimento em cinza).\n- Selo aparece na hora: o programa baixa os códigos de todos os clientes (fluxo \"FW – Códigos dos clientes\") e guarda no computador (vale sem internet)."
+  "version": "12.0.21",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.21/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.21/FontanelliWorkers-Setup.exe",
+  "sha256": "d1faf675a870458035ae8998b01cc178a64de506b080019312e4c60fd12c17f8",
+  "size": 11502592,
+  "setup_size": 5670517,
+  "notes": "- Cliente sem \"Código do cliente\" (vazio) pode comprar a prazo novamente.\n- Continuam: MENSALISTA (vencimento no último dia do mês), ESPECIAL (a prazo livre); BLOQUEADO, INADIMPLENTE e EM ANÁLISE só à vista.\n- Selo mostra só a situação (MENSALISTA, ESPECIAL, BLOQUEADO, INADIMPLENTE, EM ANÁLISE)."
 }
