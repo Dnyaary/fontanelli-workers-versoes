@@ -1,9 +1,9 @@
 {
-  "version": "12.0.24",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.24/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.24/FontanelliWorkers-Setup.exe",
-  "sha256": "fea666edf9836ffbb69f3b07b246dc98dfbc07939f11ee2cca4cc2e611ffa5b6",
-  "size": 11550208,
-  "setup_size": 5683877,
-  "notes": "- Abertura: a tela já aparece completa (antes mostrava por um instante só a faixa de cima e os painéis vazios)."
+  "version": "12.0.25",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.25/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.25/FontanelliWorkers-Setup.exe",
+  "sha256": "f0101196361c998614fdca3ebf6125c22f653d2786a9a38e9256d3b1963d9a9d",
+  "size": 11534848,
+  "setup_size": 5675643,
+  "notes": "- A quantidade das linhas de prancha no orçamento voltou a ser só leitura: as cópias mudam só na prancha (− [n] +), evitando mudar sem querer na hora de fechar o orçamento."
 }
