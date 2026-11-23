@@ -1,9 +1,9 @@
 {
-  "version": "12.0.23",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.23/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.23/FontanelliWorkers-Setup.exe",
-  "sha256": "84eae08bb701662843a3c22da2fcf228d71ab7f7a9eaf460c304ee1e7b6d7875",
-  "size": 11549184,
-  "setup_size": 5684487,
-  "notes": "- Corrigido: com o Windows em tema claro, o programa abria com as cores misturadas (era preciso trocar o tema para claro e voltar para escuro). Agora vale sempre o tema escolhido no programa."
+  "version": "12.0.24",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.24/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.24/FontanelliWorkers-Setup.exe",
+  "sha256": "fea666edf9836ffbb69f3b07b246dc98dfbc07939f11ee2cca4cc2e611ffa5b6",
+  "size": 11550208,
+  "setup_size": 5683877,
+  "notes": "- Abertura: a tela já aparece completa (antes mostrava por um instante só a faixa de cima e os painéis vazios)."
 }
