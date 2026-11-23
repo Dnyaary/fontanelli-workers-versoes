@@ -1,9 +1,9 @@
 {
-  "version": "12.0.21",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.21/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.21/FontanelliWorkers-Setup.exe",
-  "sha256": "d1faf675a870458035ae8998b01cc178a64de506b080019312e4c60fd12c17f8",
-  "size": 11502592,
-  "setup_size": 5670517,
-  "notes": "- Cliente sem \"Código do cliente\" (vazio) pode comprar a prazo novamente.\n- Continuam: MENSALISTA (vencimento no último dia do mês), ESPECIAL (a prazo livre); BLOQUEADO, INADIMPLENTE e EM ANÁLISE só à vista.\n- Selo mostra só a situação (MENSALISTA, ESPECIAL, BLOQUEADO, INADIMPLENTE, EM ANÁLISE)."
+  "version": "12.0.22",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.22/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.22/FontanelliWorkers-Setup.exe",
+  "sha256": "4868aa583b9621a645a0a5d2ebcf690fd990704913d7fd367d3d2b7127cb78b4",
+  "size": 11550208,
+  "setup_size": 5684698,
+  "notes": "- Cópias na própria prancha: − [n] + em cada linha (digite e Enter, sem mudar sem querer ao arrastar).\n- Com várias pranchas selecionadas, mudar as cópias vale para todas.\n- Quantidade editável no orçamento: muda as cópias das pranchas daquela linha.\n- Duplo clique na prancha abre o PDF no visualizador do computador.\n- Orçamento novo sempre começa sem cliente."
 }
