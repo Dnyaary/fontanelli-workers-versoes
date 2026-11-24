@@ -1,9 +1,9 @@
 {
-  "version": "12.0.26",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.26/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.26/FontanelliWorkers-Setup.exe",
-  "sha256": "7c2c9d9d98e410771edbeb5c9ed9d4ba900030c4e9108d678e1bef355514dfe7",
-  "size": 11533312,
-  "setup_size": 5676172,
-  "notes": "**Selos do \"Código do cliente\" mais rápidos**\n\n- O programa baixa a lista de códigos a cada 1 minuto (antes 5) e, se a fila do n8n estiver cheia, tenta de novo em 20 s em vez de esperar 5 min.\n- Ao escolher o cliente, o código dele é conferido de novo se a última consulta tiver mais de 30 s.\n- No n8n, os clientes novos/alterados são lidos a cada 2 minutos (antes 5)."
+  "version": "12.0.27",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.27/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.27/FontanelliWorkers-Setup.exe",
+  "sha256": "ddd529c0a051d7e9eb87f472e664b5570c730d1b76aa07353a91008c5dbc7d2d",
+  "size": 11700736,
+  "setup_size": 5712736,
+  "notes": "**Novidades para a produção**\n\n- **Pasta de entrada** (Início › Arquivos): vigia uma pasta (ex.: Downloads); todo PDF novo que chegar entra sozinho na lista e é analisado. Clique liga/desliga; botão direito troca a pasta.\n- **Aviso de prancha repetida**: se a prancha (mesmo arquivo e página, mesmo com outro nome) já entrou num orçamento, aparece o selo azul \"JÁ ORÇADA · nº\" e um aviso no terminal. Na primeira abertura, preenche com os orçamentos dos últimos 60 dias.\n- **Copiar texto** (barra ao lado da prancha, só com o Modo desempenho desligado): arraste um retângulo sobre a prancha e o texto do PDF vai para a área de transferência.\n\n**Ajustes de tela**\n\n- Propriedades na ordem Geral → Comercial → Geometria → Cobertura.\n- Selo REVISAR ao lado do − das cópias.\n- \"Forçar faixa\" alinhado no Ajuste manual."
 }
