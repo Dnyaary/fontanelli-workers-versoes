@@ -1,9 +1,9 @@
 {
-  "version": "12.0.27",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.27/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.27/FontanelliWorkers-Setup.exe",
-  "sha256": "ddd529c0a051d7e9eb87f472e664b5570c730d1b76aa07353a91008c5dbc7d2d",
-  "size": 11700736,
-  "setup_size": 5712736,
-  "notes": "**Novidades para a produção**\n\n- **Pasta de entrada** (Início › Arquivos): vigia uma pasta (ex.: Downloads); todo PDF novo que chegar entra sozinho na lista e é analisado. Clique liga/desliga; botão direito troca a pasta.\n- **Aviso de prancha repetida**: se a prancha (mesmo arquivo e página, mesmo com outro nome) já entrou num orçamento, aparece o selo azul \"JÁ ORÇADA · nº\" e um aviso no terminal. Na primeira abertura, preenche com os orçamentos dos últimos 60 dias.\n- **Copiar texto** (barra ao lado da prancha, só com o Modo desempenho desligado): arraste um retângulo sobre a prancha e o texto do PDF vai para a área de transferência.\n\n**Ajustes de tela**\n\n- Propriedades na ordem Geral → Comercial → Geometria → Cobertura.\n- Selo REVISAR ao lado do − das cópias.\n- \"Forçar faixa\" alinhado no Ajuste manual."
+  "version": "12.0.28",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.28/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.28/FontanelliWorkers-Setup.exe",
+  "sha256": "a13f7fb81a2dbd3e3e51d865480a62606601e440f98da761dc4f29edf5a7acfe",
+  "size": 11746816,
+  "setup_size": 5724515,
+  "notes": "**Correções da análise geral**\n\n- Pasta de entrada: lê a pasta em segundo plano (pasta de rede lenta não trava a tela) e, se a pasta ficar fora do ar, não importa tudo de novo quando voltar.\n- Cópias: \"1.5\" agora é 1,5 (antes virava 15); \"1.000\" continua mil.\n- Copiar texto: funciona também em prancha de página girada.\n- Prancha repetida: sem avisos falsos logo depois de salvar um orçamento.\n- Regra de crédito do \"Código do cliente\" vale também ao salvar pelo comando VENDER.\n- Ver vendas: mostra e busca o número do Conta Azul quando for diferente do reservado."
 }
