@@ -1,9 +1,9 @@
 {
-  "version": "12.0.29",
-  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.29/FontanelliWorkers.exe",
-  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.29/FontanelliWorkers-Setup.exe",
-  "sha256": "5adb57da4fc22417cbcbcc582835c4df3440a782888257bcdd8bd9c1d5b22b51",
-  "size": 11825152,
-  "setup_size": 5736350,
-  "notes": "## Orçamento só com internet\n- Sem conexão, o botão **Salvar** fica cinza: dá para conferir os valores, mas o orçamento não é enviado nem salvo.\n- Com conexão, o orçamento é enviado primeiro e só é salvo no computador quando o Conta Azul confirma — já com o **número do Conta Azul** (acaba o número diferente).\n- Se o envio falhar, nada é salvo e o motivo aparece no rodapé do formulário.\n- Clicar em Salvar de novo depois de uma queda de conexão não duplica o orçamento.\n- Rascunhos antigos \"não enviados\" passam a usar o número do Conta Azul ao serem enviados.\n\n## Outras melhorias\n- Aviso de prancha repetida mais leve (lê só o começo e o fim de cada PDF)."
+  "version": "12.0.30",
+  "url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.30/FontanelliWorkers.exe",
+  "setup_url": "https://github.com/Dnyaary/fontanelli-workers-versoes/releases/download/v12.0.30/FontanelliWorkers-Setup.exe",
+  "sha256": "d687bfa0917b397747b583bcca340d58542c84b37c10ba025af9e3b45037c08b",
+  "size": 11825664,
+  "setup_size": 5736426,
+  "notes": "## Correções\n- **Ajuste manual:** ao mudar largura/altura, o formato e o preço acompanham a medida nova (ex.: 297 × 420 mm passa para A3 e cobra A3). Vale também no ajuste em lote.\n- **Vencimento:** orçamento novo sempre começa com a data de hoje e à vista — não herda mais data/vencimento do rascunho anterior (vencimento \"preso\" num dia antigo).\n- Programa aberto de um dia para o outro: o vencimento mostrado é recalculado."
 }
